@@ -1,0 +1,1 @@
+var Sum = 'sum = (arr) => arr.reduce((sum,current) => sum + current, 0)'; 

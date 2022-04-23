@@ -1,0 +1,1 @@
+questions.forEach(i => i.usersAnswer = null )
